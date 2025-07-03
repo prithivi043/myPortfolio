@@ -81,7 +81,7 @@ export default function Home() {
         </button> <span>  </span>
         <button className="m-3">
           <a
-            href="./src/assets/Prithiviraj T(Resume).pdf"
+            href="./assets/Prithiviraj T(Resume).pdf"
             download
             class="px-6 py-2 bg-blue-600 hover:bg-white hover:text-blue-600 border border-blue-600 transition rounded"
           >
@@ -100,7 +100,7 @@ export default function Home() {
         viewport={{ once: true }}
       >
         <img
-          src="./src/assets/New Projecttt.jpg"
+          src="./assets/New Projecttt.jpg"
           alt="Profile"
           loading="lazy"
           className="rounded-lg h-65 w-60 object-cover hover:scale-105 transition-transform"

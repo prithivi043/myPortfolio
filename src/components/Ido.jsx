@@ -28,7 +28,7 @@ export default function Ido() {
         viewport={{ once: true }}
       >
         <img
-          src="./src/assets/profile-prithivi.jpg"
+          src="./assets/profile-prithivi.jpg"
           alt="Prithivi - Developer"
           className="rounded-xl object-cover w-full h-full shadow-2xl ring-2 ring-blue-400"
         />
