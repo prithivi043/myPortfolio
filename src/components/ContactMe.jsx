@@ -44,7 +44,7 @@ export default function ContactMe() {
 
         <form onSubmit={handleSubmit} className="space-y-6">
           <div>
-            <label className="block text-cyan-300 font-medium mb-2 text-sm tracking-wider">Name</label>
+            <label className="block text-cyan-900 font-medium mb-2 text-sm tracking-wider">Name</label>
             <input
               type="text"
               name="name"
